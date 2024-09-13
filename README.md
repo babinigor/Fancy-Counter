@@ -4,5 +4,4 @@
 <a href="https://babinigor.github.io/Fancy-Counter/"><img src="https://github.com/user-attachments/assets/763d470d-7403-459f-a374-36c4681e4cc4"/></a>
 
 ## How to use
- - This project is a demonstration of a website which allows users to provide anonymous feedback on various businesses.
- - Users can enter hashtags which are then displayed on the right-hand side of the page, allowing them to navigate to specific companies.
+You can increase or decrease the number between 1 and 5. The application has been designed to test the capabilities of React.
